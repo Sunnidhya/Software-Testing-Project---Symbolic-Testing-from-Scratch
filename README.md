@@ -9,3 +9,5 @@ This is a Java based project.
 1. Clone the repository
 2. Build the project using pom.xml
 3. Run the project
+
+Please go through the projectReport.pdf file to understand how the project is built.
